@@ -1,4 +1,4 @@
-# GDP_Analysis_-using-_Python
+# GDP_Analysis_-using-_Python and HTML
 Gross Domestic Product (GDP) is a measure of the size and health of an economy. It represents the total value of all goods and services produced within a country over a specific period of time, usually a year. GDP is considered a key indicator of a country's economic performance and is used to compare the economic output of different countries.This project focuses on analyzing growth rate of different Countries.
 
 
