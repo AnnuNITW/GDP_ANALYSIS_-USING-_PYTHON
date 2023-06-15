@@ -42,9 +42,9 @@ Now we can plot a line graph using plotly library between GDP Value and Year of
 > World ,
 > India ,
 >  India | China ,
->  India| USA | ITA |China
->  All countries
-and after analyzing we get conclusion.
+>  India| USA | ITA |China  ,
+>  All countries  ,
+and  plot GDP growth between 1960-2016  so after analyzing these we get some conclusions.
 
 Conclusion: 
  At last we can see by comparing GDP across countries in our Dataset ,GDP of 'World' Country growing higher than all countries. when we compare GDP of 'China' and 'India' we can see GDP of China grew much faster than the India.
